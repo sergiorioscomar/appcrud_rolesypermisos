@@ -1,10 +1,14 @@
-Proyecto App CRUD
-Roles
-Permiso usuarios
-Autenticacion
-Dashboard Admin LTE
+# Proyecto: App CRUD - Roles y Permisos - Reserva de canchas f5
 
+### Funcionalidades:  
+- **Autenticación**  
+- **Gestión de usuarios y roles**  
+- **Dashboard con AdminLTE**  
+- **Calificaciones**  
+- **Sistema de contacto**  
+- **Administración de canchas**  
+- **Reservas de canchas**  
+- **Funciones de blog**  
 
-Funciones: Calificaciones, Contacto, Administrar Canchas, Administrar 
-Usuarios, reservar canchas, funciones de blog. 
-url despliegue: https://sergiorios.com.ar/appCRUD-rolesypermisos/public/
+🔗 **Despliegue:** [Ver aplicación](https://sergiorios.com.ar/appCRUD-rolesypermisos/public/)
+
