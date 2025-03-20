@@ -25,15 +25,15 @@
                                     class="img-circle elevation-2" alt="User Image">
                                 <p>
                                     {{ Auth::user()->name }}
-                                    <small>Member since {{ Auth::user()->created_at->format('M. Y') }}</small>
+                                    <small>Miembro desde {{ Auth::user()->created_at->format('M. Y') }}</small>
                                 </p>
                             </li>
                             <!-- Menu Footer-->
                             <li class="user-footer">
-                                <a href="#" class="btn btn-default btn-flat">Profile</a>
+                                <a href="#" class="btn btn-default btn-flat">Perfil</a>
                                 <a href="#" class="btn btn-default btn-flat float-right"
                                     onclick="event.preventDefault(); document.getElementById('logout-form').submit();">
-                                    Sign out
+                                    Desconectar
                                 </a>
                                 <form id="logout-form" action="{{ route('logout') }}" method="POST" class="d-none">
                                     @csrf
@@ -57,8 +57,7 @@
                 <div class="float-right d-none d-sm-block">
                     <b>Version</b> 1.0
                 </div>
-                <strong>Copyright &copy; 2014-2024 <a href="https://sergiorios.com.ar">SergioRios</a>.</strong> All rights
-                reserved.
+                <strong>Copyright &copy; 2024-2025 <a href="https://futapp.sergiorios.com.ar">FutApp</a>.</strong>
             </footer>
         </div>
     </body>

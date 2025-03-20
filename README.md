@@ -10,5 +10,5 @@
 - **Reservas de canchas**  
 - **Funciones de blog**  
 
-🔗 **Despliegue:** [Ver aplicación](https://sergiorios.com.ar/appCRUD-rolesypermisos/public/)
+🔗 **Despliegue:** [Ver aplicación](https://futapp.sergiorios.com.ar/)
 
